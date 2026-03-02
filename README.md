@@ -9,43 +9,43 @@ Develop a predictive forecasting model to help service centers achieve Just-In-T
 
 📊 Dataset Overview
 
-28,484 service transactions
+- 28,484 service transactions
 
-7 structured features
+- 7 structured features
 
-845 days of historical demand
+- 845 days of historical demand
 
-80% zero-demand days (intermittent demand)
+- 80% zero-demand days (intermittent demand)
 
 🛠 Tech Stack
 
-Python (Pandas, NumPy)
+- Python (Pandas, NumPy)
 
-SQL (Data Extraction)
+- SQL (Data Extraction)
 
-XGBoost, LightGBM, Random Forest
+- XGBoost, LightGBM, Random Forest
 
-ARIMA, SARIMA, Prophet
+- ARIMA, SARIMA, Prophet
 
-Statistical Tests (ADF, Durbin-Watson)
+- Statistical Tests (ADF, Durbin-Watson)
 
-Inventory Optimization (EOQ, Safety Stock, ROP)
+- Inventory Optimization (EOQ, Safety Stock, ROP)
 
 🔎 Approach
 
-Data Cleaning & Quality Validation
+- Data Cleaning & Quality Validation
 
-Exploratory Data Analysis
+- Exploratory Data Analysis
 
-Time Series Preparation
+- Time Series Preparation
 
-Feature Engineering (Lag, Rolling, EMA, Seasonal Features)
+- Feature Engineering (Lag, Rolling, EMA, Seasonal Features)
 
-Model Comparison (10 Forecasting Models)
+- Model Comparison (10 Forecasting Models)
 
-Model Validation & Residual Analysis
+- Model Validation & Residual Analysis
 
-Inventory Optimization Strategy
+- Inventory Optimization Strategy
 
 🏆 Best Model Performance
 
